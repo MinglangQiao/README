@@ -343,3 +343,7 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 [weibo-logo]:/img/weibo.png "点击图片进入我的微博"
 [csdn-logo]:/img/csdn.png "我的CSDN博客"
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+
+
+#### 怎样嵌入数学公式
+https://www.jianshu.com/p/c169599726e1
